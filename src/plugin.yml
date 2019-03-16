@@ -1,0 +1,5 @@
+name: ChickenEggs
+version: 1.0
+author: PlanovskyJus
+main: com.PlanovskyJus.ChickenEggs.ChickenEggs
+api-version: 1.13

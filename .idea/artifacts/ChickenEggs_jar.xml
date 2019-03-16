@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChickenEggs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChickenEggs_jar</output-path>
+    <root id="archive" name="ChickenEggs.jar">
+      <element id="module-output" name="ChickenEggs" />
+      <element id="extracted-dir" path="D:/McPlugins/spigot-1.13.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
